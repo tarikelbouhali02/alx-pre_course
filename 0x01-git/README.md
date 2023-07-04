@@ -1,2 +1,1 @@
-readme for 0x01-git
-thi is my second readme
+this is my readme
